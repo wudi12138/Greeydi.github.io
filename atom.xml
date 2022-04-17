@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://wudi12138.github.io/github/</id>
-    <title>Gridea</title>
-    <updated>2022-04-17T07:25:25.566Z</updated>
+    <id>https://wudi12138.github.io/Greeydi.github.io/</id>
+    <title>Greeydi的个人博客</title>
+    <updated>2022-04-17T07:58:45.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://wudi12138.github.io/github/"/>
-    <link rel="self" href="https://wudi12138.github.io/github/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
-    <logo>https://wudi12138.github.io/github/images/avatar.png</logo>
-    <icon>https://wudi12138.github.io/github/favicon.ico</icon>
-    <rights>All rights reserved 2022, Gridea</rights>
+    <link rel="alternate" href="https://wudi12138.github.io/Greeydi.github.io/"/>
+    <link rel="self" href="https://wudi12138.github.io/Greeydi.github.io/atom.xml"/>
+    <subtitle>人生苦短，择善而行！</subtitle>
+    <logo>https://wudi12138.github.io/Greeydi.github.io/images/avatar.png</logo>
+    <icon>https://wudi12138.github.io/Greeydi.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Greeydi的个人博客</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://wudi12138.github.io/github/post/hello-gridea/</id>
-        <link href="https://wudi12138.github.io/github/post/hello-gridea/">
+        <id>https://wudi12138.github.io/Greeydi.github.io/post/hello-gridea/</id>
+        <link href="https://wudi12138.github.io/Greeydi.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
